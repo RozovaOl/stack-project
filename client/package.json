@@ -1,0 +1,52 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+   "axios": "^1.0.0",
+    "bootstrap": "^5.2.2",
+    "cleave.js": "^1.6.0",
+    "export-from-json": "^1.7.0",
+    "html-to-image": "^1.10.8",
+    "localforage": "^1.10.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-bootstrap-sweetalert": "^5.2.0",
+    "react-code-input": "^3.10.1",
+    "react-dom": "^18.2.0",
+    "react-export-excel": "^0.5.3",
+    "react-icons": "^4.4.0",
+    "react-router": "^6.4.2",
+    "react-router-dom": "^6.4.2",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.0.8",
+    "react-tooltip": "^4.2.21",
+    "react-window": "^1.8.7",
+    "recharts": "^2.1.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
